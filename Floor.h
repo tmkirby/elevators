@@ -100,6 +100,5 @@ public:
     void prettyPrintFloorLine1(ostream& outs) const;
     void prettyPrintFloorLine2(ostream& outs) const;
     
-    //edit should show up in github
 };
 #endif
